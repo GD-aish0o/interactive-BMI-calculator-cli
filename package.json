@@ -1,0 +1,29 @@
+{
+  "name": "fit-index",
+  "version": "1.0.3",
+  "description": "This is a simple cli based body mass index calculator. The app is interactive and results are estimated",
+  "main": "index.js",
+  "type" : "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "interactive",
+    "bmi",
+    "project",
+    "new",
+    "estimate",
+    "bodymassindex",
+    "fitness",
+    "fitnesstracker",
+    "height",
+    "weight"
+  ],
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
